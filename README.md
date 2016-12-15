@@ -9,3 +9,5 @@ Website:
 The website is a photo management and share website where user can upload and edit photos to albums user create.
 
 User can create photos from scratch using API we provided.
+
+Created by me and Chaoxi Wang
